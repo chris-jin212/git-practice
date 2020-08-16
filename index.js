@@ -7,6 +7,7 @@ import Router, { withRouter } from 'next/router'
 import { useQuery } from '@apollo/react-hooks'
 import ReactLoading from 'react-loading'
 import Masonry from 'react-masonry-css'
+import master from 'react-master'
 
 import Layout from '../../components/Layout'
 import Filter from '../../components/Filter'
