@@ -36,7 +36,7 @@ function Search ({ router }) {
       skip: skipStatus
     }
   )
-  console.log("For testing git PR")
+  console.log("Wroking for structure of table")
   useEffect(() => {
     window.addEventListener('resize', resizeWindow)
     resizeWindow()
