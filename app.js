@@ -31,3 +31,15 @@ module.exports = {
     path: path.resolve(__dirname, "build"),
   },
 };
+
+module.exports = {
+  output: {
+    path: path.resolve(__dirname, "build"),
+  },
+};
+
+module.exports = {
+  output: {
+    path: path.resolve(__dirname, "build"),
+  },
+};
