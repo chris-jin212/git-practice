@@ -32,6 +32,21 @@
 <h2>Change benchmark profile</h2>
 </body>
 </html>
+<h2>Change benchmark profile</h2>
+</body>
+</html>
+
+<h2>Change benchmark profile</h2>
+</body>
+</html>
+    <meta charset="UTF-8">
+    <title>Webpack tutorial</title>
+</head>
+<body></body>
+    <meta charset="UTF-8">
+    <title>Webpack tutorial</title>
+</head>
+<body></body>
     <meta charset="UTF-8">
     <title>Webpack tutorial</title>
 </head>
