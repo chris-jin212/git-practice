@@ -50,3 +50,10 @@ module.exports = {
     path: path.resolve(__dirname, "build")fffffffffffffffffffffffff,
   },
 };
+
+
+module.exports = {
+  output: {
+    path: path.resolve(__dirname, "build")sdfsdfsdfsdf,
+  },
+};
