@@ -22,10 +22,7 @@ function Search ({ router }) {
   const [searchKey, setsearchKey] = useState()
   const [postsArray, setPostsArray] = useState([])
   const [initialLoad, setInitialLoad] = useState(false)
-  const [skipStatus, setSkipStatus] = useState(true)
-  const [empty, setEmpty] = useState(false)
-  const [breakPointCols, setBreakPointCols] = useState('')
-  const { loading, error, data } = useQuery(
+
     SEARCH_QUERY,
     {
       variables: {
