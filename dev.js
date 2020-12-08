@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Hello webpack!</h1>
+<h2>Change benchmark profile</h2>
 </body>
 </html>
