@@ -178,3 +178,13 @@ export default withRouter(Search)
           C26.18,21.891,26.141,21.891,26.105,21.891z"/>
         </svg>
       </div>
+
+<div className="load-more flex flex-wrap">
+{loading ? (
+  <ReactLoading
+    className="load-icon"
+    type="spokes"
+    color="#333333"
+    height="40px"
+    width="40px"
+  />
