@@ -7,7 +7,7 @@
 <body>
 <h1>Hello webpack!</h1>
 <h2>Change benchmark profile</h2>
-</body>
+</body>sdfsdfsdf
 <!DOCTYPE html>
 <html lang="en">sdfsdfsdf
 <head>sdfsdf
