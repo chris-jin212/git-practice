@@ -10,7 +10,7 @@
 </body>
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>sdfsdf
     <meta charset="UTF-8">
     <title>Webpack tutorial</title>
 </head>
